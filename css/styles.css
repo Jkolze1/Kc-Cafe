@@ -1,0 +1,30 @@
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
+h1{
+font-family:Helvetica; 
+color:#f8e5eb;
+font:18px;  
+}
+
+p{
+    width:80%;
+}
+
+footer{
+display:block;
+background-color:#f6e0e6;
+width:2000px;
+height:200px
+
+}
+
